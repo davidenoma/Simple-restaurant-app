@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [com.android.support:design:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\8a5217f7899d7c0e970b160582799c6a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\078be3b024843fb2047ac6c65f743653\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\cb65517a6babc5084ab9ac65599098fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\761897cd553dfe360544feed030ee748\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\3736847718a5dcd85de62f4aeab617bb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\ee6617d789d552bf09eec8f08c144e14\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\c46384580b61918d7aad956babf20da7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\c7eca6c29f87b689b0238d07cb4ee94d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\fc8463304c168295c08546376378cf85\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\944acd5c590cf6be1074e3e14503190e\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\f3932d25440839d61dffc84864de236e\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:10:5-44:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\8a5217f7899d7c0e970b160582799c6a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\8a5217f7899d7c0e970b160582799c6a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\078be3b024843fb2047ac6c65f743653\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\078be3b024843fb2047ac6c65f743653\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\761897cd553dfe360544feed030ee748\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\761897cd553dfe360544feed030ee748\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\3736847718a5dcd85de62f4aeab617bb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\3736847718a5dcd85de62f4aeab617bb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\ee6617d789d552bf09eec8f08c144e14\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\ee6617d789d552bf09eec8f08c144e14\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\c46384580b61918d7aad956babf20da7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\c46384580b61918d7aad956babf20da7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\c7eca6c29f87b689b0238d07cb4ee94d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\c7eca6c29f87b689b0238d07cb4ee94d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\fc8463304c168295c08546376378cf85\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\fc8463304c168295c08546376378cf85\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\944acd5c590cf6be1074e3e14503190e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\944acd5c590cf6be1074e3e14503190e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\f3932d25440839d61dffc84864de236e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\f3932d25440839d61dffc84864de236e\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.android.data.MainActivity
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.android.data.DetailActivity
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:parentActivityName
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:25:13-55
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:24:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:26:13-28:49
+	android:value
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:28:17-46
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:27:17-63
+activity#com.example.android.data.SigninActivity
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:30:9-37:20
+	android:parentActivityName
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:33:13-55
+	android:label
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:31:13-43
+activity#com.example.android.data.PrefsActivity
+ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:38:9-43:20
+	android:parentActivityName
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:39:13-55
+	android:name
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml:38:19-48
+uses-sdk
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\8a5217f7899d7c0e970b160582799c6a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\8a5217f7899d7c0e970b160582799c6a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\078be3b024843fb2047ac6c65f743653\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\078be3b024843fb2047ac6c65f743653\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\cb65517a6babc5084ab9ac65599098fb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\cb65517a6babc5084ab9ac65599098fb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\761897cd553dfe360544feed030ee748\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\761897cd553dfe360544feed030ee748\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\3736847718a5dcd85de62f4aeab617bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\3736847718a5dcd85de62f4aeab617bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\ee6617d789d552bf09eec8f08c144e14\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\ee6617d789d552bf09eec8f08c144e14\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\c46384580b61918d7aad956babf20da7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\c46384580b61918d7aad956babf20da7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\c7eca6c29f87b689b0238d07cb4ee94d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\c7eca6c29f87b689b0238d07cb4ee94d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\fc8463304c168295c08546376378cf85\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\fc8463304c168295c08546376378cf85\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\944acd5c590cf6be1074e3e14503190e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\944acd5c590cf6be1074e3e14503190e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\f3932d25440839d61dffc84864de236e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\f3932d25440839d61dffc84864de236e\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\koralis\.gradle\caches\transforms-2\files-2.1\078be3b024843fb2047ac6c65f743653\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koralis\Documents\extraction\Ex_Files_Android_App_Dev_Distributing\NadiasRestaurant\app\src\main\AndroidManifest.xml
